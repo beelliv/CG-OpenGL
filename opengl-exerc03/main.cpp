@@ -46,7 +46,11 @@ int main(void)
 	GLFWwindow * window = nullptr;
 	
 	//--------JANELA--------
+<<<<<<< HEAD
 	window = createWindow(1024, 768, "Exercício 2"); //inicializa as bibliotecas GLEW e GLFW e cria a janela
+=======
+	window = createWindow(1024, 768, "Exercício 3"); //inicializa as bibliotecas GLEW e GLFW e cria a janela
+>>>>>>> fe721de0415e23bb906a0f76befa7906921cb63d
 
 
 	//--------SHADERS--------
